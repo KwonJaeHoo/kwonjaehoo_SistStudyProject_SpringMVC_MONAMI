@@ -13,7 +13,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.sist.common.util.CookieUtil;
@@ -24,9 +23,7 @@ import com.sist.study.model.Response;
 import com.sist.study.model.StPaymentApprove;
 import com.sist.study.model.StPaymentCancel;
 import com.sist.study.model.StUser;
-import com.sist.study.model.User;
 import com.sist.study.service.StUserService;
-import com.sist.study.service.UserService;
 
 import com.sist.study.model.KakaoPayCancel;
 import com.sist.study.model.Paging;
@@ -49,7 +46,7 @@ public class StUserController
 	private static final int LIST_COUNT = 5;
 	private static final int PAGE_COUNT = 5;
 	
-	private static Logger logger = LoggerFactory.getLogger(UserController.class);
+	private static Logger logger = LoggerFactory.getLogger(StUserController.class);
 
 	@RequestMapping(value="/user/mypage")
 	public String userMypage(ModelMap modelMap, HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse)
