@@ -9,7 +9,8 @@
   <img alt="javaScript" src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img alt="jsp" src="https://img.shields.io/badge/jsp-000000?style=for-the-badge&logo=jsp&logoColor=white"/>
-  <img alt="jstl" src="" />
+  <img alt="jstl" src="https://img.shields.io/badge/jstl-000000?style=for-the-badge&logo=jstl&logoColor=white" />
+  <img alt="mybatis" src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=mybatis&logoColor=white"/>
 </p>
 
 <p align="left">
@@ -18,7 +19,15 @@
   <img alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
   <img alt="kakaoPay" src="https://img.shields.io/badge/kakaoPay-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/>
 </p>
-     
+
+## 개요 및 팀 프로젝트 참여인원
+  <p align="left">
+    <a>권재후</a>
+    <a>김영현</a>
+    <a>조민정</a>
+    <a>황해정</a>
+  </p> 
+
 ## ERD
 <p align="center">
 
@@ -59,7 +68,8 @@
     * 내 리뷰내역 / 내 댓글내역 / 리뷰&댓글 삭제 / 리뷰 작성하기
     * 내 문의내역 / 삭제          
       
-
+         
+         
 * 관리자 페이지
   * 로그인 / 로그아웃
   * 검색 기능
@@ -78,7 +88,40 @@
   
   * 문의 관리
     * 문의 상세정보  
-      * 문의 글 답변 작성 / 문의 글 삭제 
+      * 문의 글 답변 작성 / 문의 글 삭제
+
+## 내가 개발한 부분
+<p align="left">
+
+  * 메인 페이지
+
+    * 마이페이지
+      * 내 정보
+      * 내 정보 수정 / 회원탈퇴
+      * 결제 내역 / 결제 취소내역 / 카카오페이 결제취소  
+      * 내 리뷰내역 / 내 댓글내역 / 리뷰&댓글 삭제 / 리뷰 작성하기
+      * 내 문의내역 / 삭제     
+        
+  * 관리자 페이지
+    * 로그인 / 로그아웃
+    * 검색 기능
+    
+    * 사용자 관리   
+      * 사용자 정보 / 포인트 / 상태 변경
+    
+    * 상품 관리
+      * 상품 등록하기
+        * 파일 첨부
+      * 상품 수정하기
+     
+    * 리뷰 관리
+      * 리뷰 상세정보
+        * 리뷰 글 삭제 / 리뷰 댓글 삭제
+    
+    * 문의 관리
+      * 문의 상세정보  
+        * 문의 글 답변 작성 / 문의 글 삭제
+  </p> 
 
 
 ## 주요 기능 
