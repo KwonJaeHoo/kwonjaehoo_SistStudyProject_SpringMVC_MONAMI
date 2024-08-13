@@ -193,7 +193,7 @@ https://github.com/KwonJaeHoo/kwonjaehoo_SistStudyProject_SpringMVC_MONAMI/tree/
           - 리뷰 내역의 제목을 클릭하면 해당 리뷰 상세정보 페이지로 이동 할 수 있습니다.
           - 댓글 내역의 게시글 제목을 클릭하면 해당 리뷰 상세정보 페이지로 이동 할 수 있습니다.
         - 리뷰 내역 우측 하단에는 리뷰 작성버튼이 있으며, 클릭 시 리뷰를 작성 할 수 있는 페이지로 이동 할 수 있습니다.
-        - 리뷰 작성 페이지//
+          - 리뷰 작성은 제목, 내용으로 구성되어 있으며, 작성자는 파일 업로드를 할 수 있습니다.
        
     * 내 문의내역 / 삭제          
       + 내 정보에서 문의내역 버튼 또는 상단 헤더의 마이페이지 내 하위 메뉴(Qna List)를 클릭하여 이동 할 수 있습니다.
@@ -274,23 +274,4 @@ https://github.com/KwonJaeHoo/kwonjaehoo_SistStudyProject_SpringMVC_MONAMI/tree/
 </p>
 
 ## 산출물
-
-<p align="left">
-  <img alt="manager1" src="https://github.com/user-attachments/assets/5f82ab0d-7150-4320-89b3-27ab88e970b1" width="500px" height="300px"/>
-  <img alt="manager2" src="https://github.com/user-attachments/assets/7d13f7d5-209b-46b1-817d-09322c947fc6" width="500px" height="300px"/>
-  <img alt="manager3" src="https://github.com/user-attachments/assets/c6ed11be-0071-42e0-8b34-96ebe979b7a9" width="500px" height="300px"/>
-  <img alt="manager4" src="https://github.com/user-attachments/assets/b549215d-d61e-44a9-87de-fdeb1787da8f" width="500px" height="300px"/>
-</p>
-
-<p align="left">
-  <img alt="manager5" src="https://github.com/user-attachments/assets/4b7fa3e7-a3fc-493e-bb5f-0a9933674623" width="500px" height="300px"/>
-  <img alt="manager6" src="https://github.com/user-attachments/assets/819a989a-5827-4449-9aec-523ada8d6ee5" width="500px" height="300px"/>
-  <img alt="manager7" src="https://github.com/user-attachments/assets/357dcc86-fca6-47f8-b5b1-9f1b456a4be8" width="500px" height="300px"/>
-  <img alt="manager8" src="https://github.com/user-attachments/assets/98074b8e-30cd-4a5c-b5f4-3a5cf57e808f" width="500px" height="300px"/>
-</p>
-
-<p align="left">
-  <img alt="manager9" src="https://github.com/user-attachments/assets/9be09ff4-fe5d-4bb7-8f3d-431b50a19aa7" width="500px" height="300px"/>
-  <img alt="manager10" src="https://github.com/user-attachments/assets/b53c511a-e24c-4712-a532-8502dee98bab" width="500px" height="300px"/>
-</p>
 
