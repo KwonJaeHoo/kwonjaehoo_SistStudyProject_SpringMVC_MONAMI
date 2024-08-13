@@ -13,6 +13,8 @@
 ## 개발기간
 <p align="left">
   <a>2024.02 ~ 2024.03 (1차 중단)</a>
+</p>
+<p align="left">
   <a>2024.06 ~ 2024.07</a>
 </p>
 
@@ -78,9 +80,11 @@
       * 문의 글 답변 작성 / 문의 글 삭제
 
 ## 내가 개발에 참여한 부분
+
 https://github.com/KwonJaeHoo/kwonjaehoo_SistStudyProject_SpringMVC_MONAMI/tree/kwonjaehoo
 
 <p align="left">
+  
   * 메인 페이지
 
     * 마이페이지
