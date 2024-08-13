@@ -276,7 +276,7 @@ https://github.com/KwonJaeHoo/kwonjaehoo_SistStudyProject_SpringMVC_MONAMI/tree/
 ## 산출물
 
 <p align="left">
-  <img alt="manager1" src="https://github.com/user-attachments/assets/5f82ab0d-7150-4320-89b3-27ab88e970b1" width="40%" height="30%"/>
-  <img alt="manager2" src="https://github.com/user-attachments/assets/7d13f7d5-209b-46b1-817d-09322c947fc6" width="40%" height="30%"/>
-  <img alt="manager3" src="https://github.com/user-attachments/assets/c6ed11be-0071-42e0-8b34-96ebe979b7a9" width="40%" height="30%"/>
+  <img alt="manager1" src="https://github.com/user-attachments/assets/5f82ab0d-7150-4320-89b3-27ab88e970b1" width="450px" height="300px"/>
+  <img alt="manager2" src="https://github.com/user-attachments/assets/7d13f7d5-209b-46b1-817d-09322c947fc6" width="450px" height="300px"/>
+  <img alt="manager3" src="https://github.com/user-attachments/assets/c6ed11be-0071-42e0-8b34-96ebe979b7a9" width="450px" height="300px"/>
 </p>
