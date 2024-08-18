@@ -31,7 +31,7 @@
 
 ## ERD
   <p align="center">
-    <img alt="ERD" src="https://github.com/user-attachments/assets/409c76ee-21f9-40a7-9cac-8f24755819a8"/>
+    <img alt="ERD" src="https://github.com/user-attachments/assets/31824af0-328b-47de-9d74-75af2907bfc0"/>
     https://www.erdcloud.com/d/uCbKRyKbSHRfGDBiC
   </p>
 
