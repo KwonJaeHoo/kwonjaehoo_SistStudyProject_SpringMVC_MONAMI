@@ -277,4 +277,10 @@ https://github.com/KwonJaeHoo/kwonjaehoo_SistStudyProject_SpringMVC_MONAMI/tree/
 </p>
 
 ## 산출물
+<p align="center">
+  <img alt="main" src="https://github.com/user-attachments/assets/59427229-c6c5-4f6c-a065-b7b6c48eb86e"/>
+  <img alt="manager" src="https://github.com/user-attachments/assets/038eb2fb-0e03-4383-9a4f-d56aa5d8a986" />
+</p>
 
+##
+https://magical-office-b9e.notion.site/MONAMI-1251e879d34c8029a519ff1f9cf228e7?pvs=74
